@@ -1,3 +1,3 @@
 
-[](/public/blogi.png)
+![blog app](public/blogi.png)
 
